@@ -153,3 +153,5 @@ This foundational knowledge prepares students for more advanced predictive analy
 ---
 
 > 🚀 *Use this project as a starter to build deeper projects around price prediction, real estate analytics, and causal inference modeling.*
+
+## 🔍 More details to see python Code: [click here](https://github.com/BI-with-Sabbir/Statistics-for-Data-Science-using-python/blob/main/Correlation%20and%20Regression%20using%20python/Correlation%20and%20Regression%20Analysis%20using%20python%20.ipynb)
