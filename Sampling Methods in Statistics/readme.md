@@ -75,7 +75,7 @@ systematic_sample = df.iloc[::5]
 ---
 
 ## 🥪 Dataset Used
-
+[Click here to see the data](https://github.com/BI-with-Sabbir/Statistics-for-Data-Science-using-python/blob/main/Sampling%20Methods%20in%20Statistics/heart.csv)
 The dataset contains clinical data on heart disease patients:
 
 - **Features**: Age, sex, chest pain (`cp`), cholesterol (`chol`), blood pressure (`trestbps`), heart rate (`thalach`), and more.
@@ -128,7 +128,7 @@ df.head()
 
 ---
 
-## 📬Need python code: [Click here]()
+## 📬Need python code: [Click here](https://github.com/BI-with-Sabbir/Statistics-for-Data-Science-using-python/blob/main/Sampling%20Methods%20in%20Statistics/Sampling%20Methods%20in%20Statistics.ipynb)
 
 
 
