@@ -124,5 +124,4 @@ Key plots used:
 ```
 
 ---
-
-## 📬 Need Python code: [click here]()
+## 📬 Need Python code: [click here](https://github.com/BI-with-Sabbir/Statistics-for-Data-Science-using-python/blob/main/Descriptive%20Statistics%20%26%20Shape%20Characteristics/01%20Descriptive%20Statistics%20%26%20Shape%20Characteristics.ipynb)
