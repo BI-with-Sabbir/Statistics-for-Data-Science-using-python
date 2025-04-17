@@ -2,6 +2,9 @@
 
 This project notebook explores fundamental probability concepts and distributions using Python. It is designed to help learners understand both **mathematical theory** and **practical simulation** using code and visualizations.
 
+![image](https://github.com/user-attachments/assets/5d36e08c-3ce3-4282-91cb-3bf0145515ac)
+
+
 ---
 
 ## 📌 Topics Covered
