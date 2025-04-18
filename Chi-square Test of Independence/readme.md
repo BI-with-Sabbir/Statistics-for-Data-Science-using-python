@@ -27,7 +27,7 @@ This project aimed to determine whether customers' perception of new, heavier, a
 - **Degrees of freedom**: 16
 - **p-value**: 0.1641
 
--**[Python code & Result]**(https://github.com/BI-with-Sabbir/Statistics-for-Data-Science-using-python/blob/main/Chi-square%20Test%20of%20Independence/Case_1_Chi_Square_Test_of_Independence.ipynb)
+- [Python code & Result](https://github.com/BI-with-Sabbir/Statistics-for-Data-Science-using-python/blob/main/Chi-square%20Test%20of%20Independence/Case_1_Chi_Square_Test_of_Independence.ipynb)
 
 **Conclusion**: Since the p-value is greater than 0.05, we fail to reject the null hypothesis. There is no statistically significant association between the uniqueness of packaging and purchase likelihood.
 ![image](https://github.com/user-attachments/assets/e03833af-12ca-4450-b08b-e00a993f06df)
